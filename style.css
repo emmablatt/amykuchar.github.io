@@ -1,0 +1,10 @@
+
+a {
+    color: #065015;
+}
+
+a:hover {
+    color: #5EA06C;
+    transition: right 1s linear;
+    position: relative;
+}
